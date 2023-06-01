@@ -26,6 +26,4 @@ public:
 	UPROPERTY(EditAnywhere)
 	int32 MyInt = 99;
 
-	UPROPERTY(EditAnywhere)
-	bool IsAlive = true;
 };
