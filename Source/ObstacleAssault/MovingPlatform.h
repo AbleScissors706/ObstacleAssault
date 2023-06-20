@@ -39,4 +39,6 @@ private:
 
 	bool ShouldPlatFormReturn();
 
+	float GetDistanceMoved();
+
 };
