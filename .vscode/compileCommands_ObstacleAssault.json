@@ -2,41 +2,41 @@
 	{
 		"file": "D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
 		],
-		"directory": "D:\\UE_5.1\\Engine\\Source"
+		"directory": "D:\\UE_5.2\\Engine\\Source"
 	},
 	{
 		"file": "D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
 		],
-		"directory": "D:\\UE_5.1\\Engine\\Source"
+		"directory": "D:\\UE_5.2\\Engine\\Source"
 	},
 	{
 		"file": "D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
 		],
-		"directory": "D:\\UE_5.1\\Engine\\Source"
+		"directory": "D:\\UE_5.2\\Engine\\Source"
 	},
 	{
 		"file": "D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
 		],
-		"directory": "D:\\UE_5.1\\Engine\\Source"
+		"directory": "D:\\UE_5.2\\Engine\\Source"
 	},
 	{
 		"file": "D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.249.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\CGSPECTRUM - PROGRAMMING\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
 		],
-		"directory": "D:\\UE_5.1\\Engine\\Source"
+		"directory": "D:\\UE_5.2\\Engine\\Source"
 	}
 ]
